@@ -13,12 +13,10 @@ Acme Rockets is a fictional company website showcasing their innovative rocket p
 
 ## Screenshots
 ### Light Mode
-![Light Mode](![LightMode](https://github.com/AishMishra001/Acme_Rocket_Tailwind/assets/124676576/2e2ba629-9848-4917-b2dd-70fe35b966ad)
-)
+(![LightMode](https://github.com/AishMishra001/Acme_Rocket_Tailwind/assets/124676576/2e2ba629-9848-4917-b2dd-70fe35b966ad))
 
 ### Dark Mode
-![Dark Mode](![DarkMode](https://github.com/AishMishra001/Acme_Rocket_Tailwind/assets/124676576/b10b618b-d627-4ed3-91d5-33e4ecfefc0b)
-)
+(![DarkMode](https://github.com/AishMishra001/Acme_Rocket_Tailwind/assets/124676576/b10b618b-d627-4ed3-91d5-33e4ecfefc0b))
 
 ## Installation
 1. Clone the repository:
